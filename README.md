@@ -8,10 +8,6 @@
 
   </h2>
 
-<p align="center">
-  <img src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" alt="Get_Next_Line Logo">
-</p>
-
 ## Introduction
 
 Get_Next_Line is a function that reads a line from a file descriptor. It allows you to retrieve the next line from a file, one line at a time, without having to read the entire file at once. The function is designed to be memory efficient and to work seamlessly with multiple file descriptors.
