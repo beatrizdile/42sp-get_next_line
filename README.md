@@ -9,7 +9,7 @@
   </h2>
 
 <p align="center">
-  <img src="https://your-image-url.com/your-image.png" alt="Get_Next_Line Logo">
+  <img src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" alt="Get_Next_Line Logo">
 </p>
 
 ## Introduction
