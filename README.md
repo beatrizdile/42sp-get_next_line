@@ -10,7 +10,7 @@
 
 The Get_Next_Line project is a fundamental project that aims to develop a function capable of reading a line from a file descriptor. It allows you to retrieve the next line from a file, one line at a time, without reading the entire file at once. The function is designed to be memory efficient and work seamlessly with multiple file descriptors.
 
-## Introduction
+## Description
 
 Get_Next_Line is a function that reads a line from a file descriptor. It allows you to retrieve the next line from a file, one line at a time, without having to read the entire file at once. The function is designed to be memory efficient and to work seamlessly with multiple file descriptors.
 
