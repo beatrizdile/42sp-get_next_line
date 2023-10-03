@@ -6,7 +6,7 @@
 </h2>
 <h2 align=center>
 
-  ![GNL Logo](https://github.com/caroldaniel/caroldaniel-utils/blob/56a285f1aa629e46b5bbcf1d1c4b9d2fd300fd4b/get_next_linem.png)
+  ![GNL Logo](https://github.com/beatrizdile/beatrizdile-utils/blob/master/get_next_linem.png)
 </h2>
 
 The **get_next_line** project is a fundamental project that aims to develop a function capable of reading a line from a file descriptor. It allows you to retrieve the next line from a file, one line at a time, without reading the entire file at once. The function is designed to be memory efficient and work seamlessly with multiple file descriptors.
